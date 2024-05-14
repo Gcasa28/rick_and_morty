@@ -26,6 +26,7 @@ export default function Form({login}) {
 
   return (
     <div>
+      
         <img src="https://www.freepnglogos.com/uploads/rick-and-morty-png/rick-and-morty-portal-shoes-white-clothing-zavvi-23.png" alt="logo_RaM" style={{width:'300px'}}/>
 
     <form onSubmit={handleSubmit}>
